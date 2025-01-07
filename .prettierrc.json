@@ -1,8 +1,8 @@
 {
-    "bracketSpacing": true,
-    "quoteProps": "as-needed",
-    "trailingComma": "all",
-    "useTabs": true,
-    "arrowParens": "always",
-    "semi": true
+	"bracketSpacing": true,
+	"quoteProps": "as-needed",
+	"trailingComma": "all",
+	"useTabs": true,
+	"arrowParens": "always",
+	"semi": true
 }

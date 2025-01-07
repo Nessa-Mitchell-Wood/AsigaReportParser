@@ -5,6 +5,9 @@
 	"scripts": {
 		"dev": "npx tsx --watch ./src/index.ts"
 	},
+	"repository": {
+		"url": "https://github.com/Nessa-Mitchell-Wood/AsigaReportParser.git"
+	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",

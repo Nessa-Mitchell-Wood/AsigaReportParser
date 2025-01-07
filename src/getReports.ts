@@ -17,7 +17,3 @@ export const getReports = async () => {
 		.filter((f) => f.status === "fulfilled")
 		.map((d) => d.value);
 };
-
-getReports()
-	.then((d) => console.log(d))
-	.catch((d) => console.error(d.message));
